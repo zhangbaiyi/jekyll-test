@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 知我罪我
+title: IP属地: 海里
 email: 100baiyi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  大写的人和他无处安放的自由。
+  无处安放的自由
 twitter_username: BaiyiZhang
 github_username:  zhangbaiyi
 
 domain: zhangbaiyi.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://zhangbaiyi.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /zhangbaiyi.github.io/      # place folder name if the site is served in a subfolder
-
+# baseurl: /zhangbaiyi.github.io/      # place folder name if the site is served in a subfolder
+baseurl: 
 # Build settings
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
