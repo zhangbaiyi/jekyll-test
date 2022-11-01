@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IP属地: 海里
+title: trash can
 email: 100baiyi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  无处安放的自由
-twitter_username: BaiyiZhang
-github_username:  zhangbaiyi
-
-domain: zhangbaiyi.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://zhangbaiyi.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-# baseurl: /zhangbaiyi.github.io/      # place folder name if the site is served in a subfolder
-baseurl: 
+twitter_username: jekyllrb
+github_username:  jekyll
+
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
 
 # Exclude from processing.
