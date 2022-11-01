@@ -21,7 +21,7 @@
 title: zhangbaiyi.github.io
 email: 100baiyi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The brightest stars are born in the darkest nights.
+  A simple blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://zhangbaiyi.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: BaiyiZhang
